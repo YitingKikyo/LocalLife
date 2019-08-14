@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="example">如果可能的话，有时候我希望我们把时间的刻度全部抹去。一天、一个星期、一个月、一年，但没有刻度就意味着没有结束也没有开始，然而显然，所有人都极其需要一个开始，和一个结束。
+于是这一年，我崭新的建议是：我们要更为新年的到来而欢庆。我们要约上最亲爱的朋友，要布置家里，要做精致的食物，要跟朋友举杯，要说很多祝福的话，要大声讲出自己的愿望。</string>
+    <string name="excomment">所有人都极其需要一个开始，和一个结束。</string>
+    <string name="li"></string>
+</resources>
